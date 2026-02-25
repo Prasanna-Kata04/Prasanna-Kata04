@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **HTML5 , CSS3 , JavaScript , Python**
+- 💬 Ask me about **HTML5 , CSS3 , JavaScript , Python, Java**
 
 - 📫 How to reach me **prasannakata04@gmail.com**
 
